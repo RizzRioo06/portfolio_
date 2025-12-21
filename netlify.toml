@@ -1,0 +1,9 @@
+[build]
+  base = "portfolio-site"
+  publish = "portfolio-site/dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
