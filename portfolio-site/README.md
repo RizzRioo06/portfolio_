@@ -2,7 +2,7 @@
 
 A modern, fully responsive portfolio website built with React and Tailwind CSS, designed to impress recruiters and showcase your skills as a Full-Stack Developer.
 
-## 🚀 Features
+## 🚀 Featuress
 
 - **Modern Tech Stack**: Built with React (Vite) and Tailwind CSS
 - **Fully Responsive**: Optimized for mobile (iPhone SE), tablet (iPad), and desktop (4K) displays
